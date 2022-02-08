@@ -12,7 +12,7 @@ dependencies:
   flutter_map: 
     git:
       url: https://github.com/marcin-jelenski/flutter_map.git
-      ref: 3a253c2575cff5e2ddd0773de403aa17fdb209cb
+      ref: 0f1785251ace19b3d80a1dddc64d20a2c695cdfb
   latlong2: 0.8.0
 
 dev_dependencies:
